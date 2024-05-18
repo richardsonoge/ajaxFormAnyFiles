@@ -7,7 +7,7 @@ Here's a form that will help you process any data in your FORM and submit any am
 This FORM supports all modern browsers that support HTML5. There may be problems with earlier versions of Internet Explorer (as usual). If so, please let me know, as I don't have Internet Explorer or others. It has been tested on Firefox (Linux), Chrome (Linux), and Safari (iOS 7).
 
 ```
-Copyright (C) 2014  Richardson Oge, TranslaDocs.com
+Copyright (C) 2024  Richardson Oge, TranslaDocs.com
 Licenced under the GNU AFFERO GENERAL PUBLIC LICENSE (v3). See: LICENCE.txt
 ```
 
