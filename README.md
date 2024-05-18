@@ -373,6 +373,6 @@ echo json_encode($result);
 
 ## Donation
 
-If you find **richardsonoge/pdf-translator** helpful and want to support its development, consider donating. Your contribution helps ensure the maintenance and improvement of this open-source project. Every donation, no matter the size, is greatly appreciated. :)
+If you find **richardsonoge/ajaxFormAnyFiles** helpful and want to support its development, consider donating. Your contribution helps ensure the maintenance and improvement of this open-source project. Every donation, no matter the size, is greatly appreciated. :)
 
  - [PayPal](https://www.paypal.me/richardsonoge)
