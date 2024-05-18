@@ -12,7 +12,7 @@ Licenced under the GNU AFFERO GENERAL PUBLIC LICENSE (v3). See: LICENCE.txt
 ```
 
 ## Get Started
-1. Creer le FORM `form.html`:
+1. Create the FORM `form.html`:
 
     ```html
     <!DOCTYPE html>
@@ -73,7 +73,7 @@ Licenced under the GNU AFFERO GENERAL PUBLIC LICENSE (v3). See: LICENCE.txt
 	</body>
 	</html>
     ```
-2. Ajouter les codes CSS dans ce fichier `style.css`:
+2. Add CSS code to this `style.css` file:
 
 ```css
 * {
@@ -207,7 +207,7 @@ button:hover {
 }
 ```
 
-3. Creer le fichier JS `post.js`:
+3. Create the JS file `post.js`:
 
 ```js
 document.addEventListener("DOMContentLoaded", function(){
@@ -273,7 +273,7 @@ function postData(formsubmission){
 }
 ```
 
-3. Creer le fichier PHP pour traiter les donnees `send.php`:
+4. Create the PHP file to process the data `send.php`:
 
 ```php
 <?php
